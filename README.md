@@ -15,4 +15,4 @@ Any vesion of linux with ruby 2.2 or above with bundler gem.
 `$ ruby game.rb`<br>
 
 ## Controls
-Player have three options to navigate through the board: **arrow keys**, **asdw** or **hjkl**. To select or place a piece on the board, player can use **enter** or **space* key**.
+Player have three options to navigate through the board: **arrow keys**, **asdw** or **hjkl**. To select or place a piece on the board, player can use **enter** or **space** key.
